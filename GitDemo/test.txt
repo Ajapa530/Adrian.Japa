@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Test
+Change 2 on the master branch
+=======
+Test1
+Change 2 on MyBranch
+>>>>>>> MyBranch
